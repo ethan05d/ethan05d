@@ -1,4 +1,4 @@
-# bout Me:
+# About
 Ethan Dy<br>Bachelors in Software Engineering @ San Jose State University<br>Living in the Bay
 
 
