@@ -1,4 +1,4 @@
-# bout me.
+# about me.
 Ethan Dy
 <br>Bachelors in Software Engineering @ San Jose State University<br>
 
